@@ -118,6 +118,7 @@ git add . && git commit -m "First"
 
 ```
 heroku create --buildpack https://github.com/virtualstaticvoid/heroku-buildpack-r.git
+git push heroku master
 ```
 
 About 30 seconds later, your app will be live on the web. The terminal output should resemble this (note the url for your app toward the bottom):
