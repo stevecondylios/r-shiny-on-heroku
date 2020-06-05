@@ -8,7 +8,7 @@ There are numerous ways of getting your R Shiny app on to the web. Some are expe
 
 Heroku allows you to think far less about dev-ops, letting you focus on building awesome apps. 
 
-With Heroku, you don't have to manually provision infrastructure (reliving you of things like: starting EC2s from images, configuring security groups, setting port ranges, shelling in, installing dependencies, configuring a database, load balancing, scheduling, and any other configurations required to run you app 😅). 
+With Heroku, you don't have to manually provision infrastructure (reliving you of things like: starting EC2s from images, configuring security groups, setting port ranges, shelling in, installing dependencies, configuring a database, load balancing, scheduling, and any other configurations required to run your app 😅). 
 
 Heroku is mostly declarative meaning we tell it what we're after, rather than having to think carefully about how achieve each deployment step - Heroku takes care of this for us.
 
